@@ -1,0 +1,11 @@
+{
+    "name": "GamerzSuits",
+    "version_number": "1.1.0",
+    "website_url": "",
+    "description": "Suits mod for some friends",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+          "x753-More_Suits-1.4.3",
+            "LSLS-Helldiver_Suit-1.0.2"
+    ]
+}
